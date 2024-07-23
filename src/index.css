@@ -202,7 +202,11 @@ a:hover {
   color: var(--bs-link-hover-color);
 }
 
+<<<<<<< HEAD
 a:not([href]):not([className]), a:not([href]):not([className]):hover {
+=======
+a:not([href]):not([class]), a:not([href]):not([class]):hover {
+>>>>>>> 0f31c66558cc7b6b8e3ee67cc3817867c8b22f3d
   color: inherit;
   text-decoration: none;
 }
